@@ -1,16 +1,21 @@
-# flutter_sneaky
+# Flutter UI Challenge Week 3 - Sneaky App:
 
-A new Flutter application.
+A Flutter UI implementation of a Sneaky App inspired by [Ranjith’s](http://ranjithmanoharan.dribbble.com/) account on [Uplabs](https://www.uplabs.com/posts/sneaky-shopping)
 
-## Getting Started
+## 📸 Screenshot :
 
-This project is a starting point for a Flutter application.
+![Simulator Screen Shot - iPhone Xʀ - 2019-10-20 at 21 57 09](https://user-images.githubusercontent.com/10756609/67162747-cc47c900-f384-11e9-8e06-aa54427212c4.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter A brain to think
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author(s) :
+
+### Senthil Kumar
+
+## ⭐ Star the repo if you like what you see. ⭐
+
+
