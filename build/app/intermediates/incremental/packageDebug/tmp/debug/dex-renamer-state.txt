@@ -1,0 +1,4 @@
+#Sun Oct 20 21:42:20 IST 2019
+base.0=/Users/SENTHIL/Code/Flutter Projects/flutter_sneaky/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
